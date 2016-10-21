@@ -40,6 +40,7 @@
     <dimen name="spacing_medium_32">32dp</dimen>
     <dimen name="spacing_medium_plus_36">36dp</dimen>
     <dimen name="spacing_bigger_40">40dp</dimen>
+    <dimen name="spacing_bigger_plus_48">48dp</dimen>
     <dimen name="spacing_large_56">56dp</dimen>
     <dimen name="spacing_large_64">64dp</dimen>
     <dimen name="spacing_larger_72">72dp</dimen>
@@ -54,4 +55,6 @@
     <!-- Lines -->
     <dimen name="line_size_1">1dp</dimen>
     <dimen name="line_size_2">2dp</dimen>
+    <dimen name="login_logo_width_70">70dp</dimen>
+    <dimen name="login_logo_height_100">100dp</dimen>
 </resources>
