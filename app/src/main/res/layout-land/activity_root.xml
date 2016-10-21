@@ -22,7 +22,7 @@
             android:layout_width="@dimen/login_logo_width_70"
             android:layout_height="@dimen/login_logo_height_100"/>
 
-        <com.testography.mvpauth.utils.TitleTextView
+        <TextView
             android:id="@+id/app_name_txt"
             android:text="@string/app_name"
             android:layout_marginTop="@dimen/spacing_medial_24"
